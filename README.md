@@ -1,16 +1,20 @@
-### Hi there 👋
+# Приветствую!🍻
 
-<!--
-**pinocoladium/pinocoladium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
+## Немного о себе
 
-Here are some ideas to get you started:
+Меня зовут Глеб, и я смею представлять себя начинающим Python-разработчиком, обладающим начальными знаниями backend-разработки во фреймворках - Django/DRF, FastAPI, Flask. В связи с этим имею неплохой опыт использования PostgreSQL (psycopg2, asyncpg), Swagger, Celery, Docker, PyTest и тд.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+На сегодняшний день активно продолжаю обучаться и практиковаться не только в вышеупомянутой сфере, а также в других еще неизвестных мне областях backend-разработки.
+
+![Codewars](https://www.codewars.com/users/pinocoladium/badges/small)
+
+## Учебные проекты
+
+- [API марекетплэйса для розничных сетей](https://github.com/pinocoladium/PET-MARKETPLACE)  
+_стек: Django/DRF, Swagger, PostgreSQL, Celery, Docker, Git/GitHub_
+
+- [Telegram-бот](https://github.com/pinocoladium/TELEBOT)
+_стек: aiogream, PostgreSQL, Docker, pillow, reportlab_
+
+P.S. К сожалению, проектов пока что не так много, но список будет постоянно пополнятся
